@@ -4,7 +4,7 @@
 
 ## Step 1 - Download Embedded ActiveMQ & H2 project
 
-Clone the **Spring cloud config service** project to your IDE  
+Clone the **ActiveMQ H2** project to your IDE  
 Git Clone: [https://github.com/rajs24/sbt-activemq-h2.git](https://github.com/rajs24/sbt-activemq-h2.git)  
 
 ## Step 2 - Maven Clean and Install
